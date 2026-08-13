@@ -21,8 +21,12 @@ from queue import Queue
 
 import xmltodict
 
-MAIN_SERVER = "www.easy4ipcloud.com"
-MAIN_PORT = 8800
+MAIN_SERVER = "intelbrasp2p.com.br"     "Hello, would it be possible to make this change to another server for OEM devices in Brazil?
+
+Serial numbers: prefix = 8, suffix = 5, total = 13."
+
+
+MAIN_PORT = ?
 
 USERNAME = "cba1b29e32cb17aa46b8ff9e73c7f40b"
 USERKEY = "996103384cdf19179e19243e959bbf8b"
